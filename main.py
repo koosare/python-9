@@ -1,7 +1,6 @@
 import ptbot
 from dotenv import load_dotenv
 import os
-import random
 from pytimeparse import parse
 
 
